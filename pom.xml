@@ -50,6 +50,13 @@
 		</dependency>
 
 
+		<!--Use this dependency to deploy to Heroku-->
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.4-1201-jdbc4</version>
+		</dependency>
+
 		<!--Lesson 20 addition-->
 		<!--<dependency>-->
 			<!--<groupId>org.springframework.boot</groupId>-->
